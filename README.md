@@ -1,4 +1,4 @@
-![Screenshot of the theme](Screenshot/principal.png)
+![Screenshot of the theme](Screenshots/principal.png)
 
 ## Descripción
 
@@ -21,14 +21,14 @@ Teniendo abierto `Kate` :
 
 1. Dentro de la barra de menu, abriremos la pestaña ```Preferencias```.
 2. Entramos la opción de ```Configurar Kate```
-![Screenshot of configuration_one](Screenshot/configuration_one.png)
+![Screenshots of configuration_one](Screenshots/configuration_one.png)
 3. En el panel lateral izquierdo abrimos ```Componente de edicion``` y entramos a ```Tipos de letra y colores```
-![Screenshot of configuration_two](Screenshot/configuration_two.png)
+![Screenshots of configuration_two](Screenshots/configuration_two.png)
 4. Pulsamos en ```Ìmportar...```
-![Screenshot of configuration_three](Screenshot/configuration_three.png)
+![Screenshots of configuration_three](Screenshots/configuration_three.png)
 5. Y nos mostrará un gestor de archivos, buscamos el directorio donde se extrajo o descargó el archivo .kateschema y seleccionamos ```DarkBlueSpvwn.kateschema```
 6. Ahora solo debemos seleccionarlo en la opción llamada ```Esquema predeterminado para Kate:```
-![Screenshot of configuration_four](Screenshot/configuration_four.png)
+![Screenshots of configuration_four](Screenshots/configuration_four.png)
 7. Y listo, ya podemos comenzar a trabajar con nuestro editor :)
 
 
@@ -42,7 +42,7 @@ Con el tiempo iré agregando soporte para más lenguajes.
 
 Actualmente utilizo Arch Linux con i3-gaps, para modificar la GUI de las aplicaciones hechas en el maravilloso Qt utilizo ```Qt5ct```, pero si estás utilizando un DE como Plasma puedes modificar la GUI de las aplicaciones utilizando la propia herramienta de configuración del entorno.
 
-![Screenshot of neofetch](Screenshot/neofetch.png)
+![Screenshots of neofetch](Screenshots/neofetch.png)
 
 ## Contacto para recomendaciones o errores
 
