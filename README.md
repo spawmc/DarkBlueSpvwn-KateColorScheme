@@ -6,6 +6,17 @@
 
 Este es un tema oscuro para Kate que se encuenta en fase beta, por el momento su principal lenguaje es JAVA, pero con el tiempo agregaré soporte a más lenguajes como Python, PHP, BASH Script, JavaScript, HTML y CSS. Si te gusta, disfrutalo.
 
+## Requisitos previos
+
+- Tener instalado Kate
+- Tener instalado la font: ```ttf-monaco```
+
+**Instalación en Arch Linux con yay**
+	```yay -S ttf-monaco --noconfirm --needed```
+
+**Instalación en otras distribuciones**
+	```Dirígete [aquí](https://gist.github.com/rogerleite/99819)
+
 ## ¿Qué es Kate?
 
 "Kate is a multi-document, multi-view text editor by KDE. It features stuff like codefolding, syntaxhighlighting, dynamic word wrap, an embedded console, an extensive plugin interface and some preliminary scripting support."
