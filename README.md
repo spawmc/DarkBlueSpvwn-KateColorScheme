@@ -17,18 +17,27 @@ Este es un tema oscuro para Kate que se encuenta en fase beta, por el momento su
 ### Instalación manual
 
 Teniendo abierto `Kate` :
-1. Si tenemos instalado Git, podemos clonar el repositorio directamente con ```git clone https://github.com/spawmc/DarkBlueSpvwn-KateColorScheme.git``` o simplemente pulsar en ```Clonar o descargar``` y dar click en ```Descargar ZIP```
+1. Si tenemos instalado Git, podemos clonar el repositorio directamente con ```git clone https://github.com/spawmc/DarkBlueSpvwn-KateColorScheme.git``` o simplemente pulsar en ```Clonar o descargar``` y dar clic en ```Descargar ZIP```
 
 1. Dentro de la barra de menu, abriremos la pestaña ```Preferencias```.
 2. Entramos la opción de ```Configurar Kate```
+
 ![Screenshots of configuration_one](Screenshots/configuration_one.png)
+
 3. En el panel lateral izquierdo abrimos ```Componente de edicion``` y entramos a ```Tipos de letra y colores```
+
 ![Screenshots of configuration_two](Screenshots/configuration_two.png)
+
 4. Pulsamos en ```Ìmportar...```
+
 ![Screenshots of configuration_three](Screenshots/configuration_three.png)
+
 5. Y nos mostrará un gestor de archivos, buscamos el directorio donde se extrajo o descargó el archivo .kateschema y seleccionamos ```DarkBlueSpvwn.kateschema```
+
 6. Ahora solo debemos seleccionarlo en la opción llamada ```Esquema predeterminado para Kate:```
+
 ![Screenshots of configuration_four](Screenshots/configuration_four.png)
+
 7. Y listo, ya podemos comenzar a trabajar con nuestro editor :)
 
 
@@ -48,5 +57,7 @@ Actualmente utilizo Arch Linux con i3-gaps, para modificar la GUI de las aplicac
 
 Correo:
 	```spawnmcswitch@gmail.com```
+
+	
 Telegram:
-	```https://t.me/spawnmc```
+	```https://t.me/spawnmc```S
