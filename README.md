@@ -11,7 +11,8 @@ Este es un tema oscuro para Kate que se encuenta en fase beta, por el momento su
 "Kate is a multi-document, multi-view text editor by KDE. It features stuff like codefolding, syntaxhighlighting, dynamic word wrap, an embedded console, an extensive plugin interface and some preliminary scripting support."
 	-Official KDE PLASMA page.
 
-***O por su tracucción.-***
+***O por su tracucción:***
+
 *Kate es un editor de texto de múltiples documentos y múltiples vistas de KDE. Cuenta con elementos como plegado de códigos, resaltado de sintaxis, ajuste dinámico de palabras, una consola integrada, una amplia interfaz de complementos y algo de soporte de secuencias de comandos preliminar.*
 
 ## Instalación
@@ -21,26 +22,26 @@ Este es un tema oscuro para Kate que se encuenta en fase beta, por el momento su
 Teniendo abierto `Kate` :
 1. Si tenemos instalado Git, podemos clonar el repositorio directamente con ```git clone https://github.com/spawmc/DarkBlueSpvwn-KateColorScheme.git``` o simplemente pulsar en ```Clonar o descargar``` y dar clic en ```Descargar ZIP```
 
-1. Dentro de la barra de menu, abriremos la pestaña ```Preferencias```.
-2. Entramos la opción de ```Configurar Kate```
+2. Dentro de la barra de menu, abriremos la pestaña ```Preferencias```.
+3. Entramos la opción de ```Configurar Kate```
 
 ![Screenshots of configuration_one](Screenshots/configuration_one.png)
 
-3. En el panel lateral izquierdo abrimos ```Componente de edicion``` y entramos a ```Tipos de letra y colores```
+4. En el panel lateral izquierdo abrimos ```Componente de edicion``` y entramos a ```Tipos de letra y colores```
 
 ![Screenshots of configuration_two](Screenshots/configuration_two.png)
 
-4. Pulsamos en ```Ìmportar...```
+5. Pulsamos en ```Ìmportar...```
 
 ![Screenshots of configuration_three](Screenshots/configuration_three.png)
 
-5. Y nos mostrará un gestor de archivos, buscamos el directorio donde se extrajo o descargó el archivo .kateschema y seleccionamos ```DarkBlueSpvwn.kateschema```
+6. Y nos mostrará un gestor de archivos, buscamos el directorio donde se extrajo o descargó el archivo .kateschema y seleccionamos ```DarkBlueSpvwn.kateschema```
 
-6. Ahora solo debemos seleccionarlo en la opción llamada ```Esquema predeterminado para Kate:```
+7. Ahora solo debemos seleccionarlo en la opción llamada ```Esquema predeterminado para Kate:```
 
 ![Screenshots of configuration_four](Screenshots/configuration_four.png)
 
-7. Y listo, ya podemos comenzar a trabajar con nuestro editor :)
+8. Y listo, ya podemos comenzar a trabajar con nuestro editor :)
 
 
 ## Desarrollo
