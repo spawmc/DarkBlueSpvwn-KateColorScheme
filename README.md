@@ -1,3 +1,5 @@
+##DarkBlueSpvwn-KateColorScheme
+
 ![Screenshot of the theme](Screenshots/principal.png)
 
 ## Descripción
@@ -58,6 +60,6 @@ Actualmente utilizo Arch Linux con i3-gaps, para modificar la GUI de las aplicac
 Correo:
 	```spawnmcswitch@gmail.com```
 
-	
+
 Telegram:
-	```https://t.me/spawnmc```S
+	```https://t.me/spawnmc```
