@@ -17,7 +17,7 @@ Este es un tema oscuro para Kate que se encuenta en fase beta, por el momento su
 
 **Instalación en otras distribuciones**
 
-	Dirígete [aquí](https://gist.github.com/rogerleite/99819)
+	Dirígete [aqui](https://gist.github.com/rogerleite/99819)
 
 ## ¿Qué es Kate?
 
