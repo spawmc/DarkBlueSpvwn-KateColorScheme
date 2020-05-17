@@ -1,4 +1,4 @@
-##DarkBlueSpvwn-KateColorScheme
+## DarkBlueSpvwn-KateColorScheme
 
 ![Screenshot of the theme](Screenshots/principal.png)
 
